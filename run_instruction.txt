@@ -1,0 +1,25 @@
+How to run Roles and user progrma on python
+
+Python is a well known high-level progrmmning language . the python script is basically a file contaiing code written in python. 
+the file containing python script has extension ".py" or can also have the extension ".pyw" if it is being run on windows machine. to run a python scrpt, we need a python interpreter that needs to bw downloaded and installed. 
+
+if you are coming feom any other language then you will also noticw that there is no semicolon at the end of the statement as with python, you no need to specify the end of the line. and also we dint't need to inclue or import any files to run a simple python sript . 
+
+there is more than one way to run a python script but before going toward the different ways to run a pyhton script, we first have to check whethe a pyhton interpreter is installed on the system or not. so in windows, open 'cmd' ans type tje following command.
+
+python -v
+
+this command will give the version number of the python interpreter installed or wil display sn error if otherwise 
+
+c:\user\Anyonymous>python -v
+python 3.7.3
+C:\users\Anonymous
+
+
+Like that way we habe a Program Called "Roles and User"
+
+here we different roles and their user and function
+first role is called CEO
+second we have COD and CTO
+third we have senior product engineering manager, marketinh manager, director of technology.
+
